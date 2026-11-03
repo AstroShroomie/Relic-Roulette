@@ -12,6 +12,7 @@ Already have it? Open Relic Roulette and press **Update** when it offers a new v
 
 ## Good to know
 
+- **Built for tank controls.** If you play with modern controls, some effects may not work fully. Switch to tank controls in the game's settings for the full experience.
 - Install changes the 45 Tomb Raider I level files in your Steam folder. The originals are backed up first, and **Remove** puts them back exactly.
 - Windows may warn about the download the first time, because the program is not code-signed.
 - The full source of the app and its tools is inside the zip. Relic Roulette is free software under the GPL-3.0 licence, with no warranty.
